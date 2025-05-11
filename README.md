@@ -113,7 +113,7 @@ TensorBoard logs are in `tb/`.
 
 ## License
 
-MIT © 2025 \<Your Name / University>
+MIT © 2025 \<Gajendra Varma Penmetsa / University of New Haven>
 
 ---
 
@@ -123,10 +123,10 @@ If this repo flaps its way into your research, please cite:
 
 ```bibtex
 @misc{flappy_pixel_drl_2025,
-  author       = {<Your Name>},
+  author       = Gajendra Varma Penmetsa,
   title        = {Pixel-Based Deep Reinforcement Learning for Flappy Bird},
   year         = {2025},
-  howpublished = {\url{https://github.com/<your-user>/flappy-pixel-drl}}
+  howpublished = {\url{https://github.com/penmetsagajendravarma/DSCI-6612-01-Team-Project}}
 }
 ```
 
