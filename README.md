@@ -10,13 +10,12 @@ Two CNN back‑bones, Colab‑one‑click, and GPU‑friendly code—because fla
 ## Table of Contents
 
 1. [Features](#features)
-2. [Demo](#demo)
-3. [Quick Start](#quick-start)
-4. [Repository Layout](#repository-layout)
-5. [Hyper‑parameters](#hyper-parameters)
-6. [Results](#results)
-7. [License](#license)
-8. [Citing & Thanks](#citing--thanks)
+2. [Quick Start](#quick-start)
+3. [Repository Layout](#repository-layout)
+4. [Hyper‑parameters](#hyper-parameters)
+5. [Results](#results)
+6. [License](#license)
+7. [Citing & Thanks](#citing--thanks)
 
 ---
 
@@ -29,12 +28,6 @@ Two CNN back‑bones, Colab‑one‑click, and GPU‑friendly code—because fla
 * Clean, modular Python package—drop it into your own RL projects.
 
 ---
-
-## Demo
-
-<p align="center">
-  <img src="docs/demo.gif" alt="Demo GIF" width="600">
-</p>
 
 ---
 
