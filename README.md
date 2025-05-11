@@ -29,8 +29,6 @@ Two CNN back‑bones, Colab‑one‑click, and GPU‑friendly code—because fla
 
 ---
 
----
-
 ## Quick Start
 
 ### ▶️ Run in Colab
